@@ -52,3 +52,5 @@ The analysis was completed using Excel, SQL, Python, and Power BI. Dashboard scr
 
 Dashboard Preview
 The dashboard below provides a visual overview of the Nigeria Retail Sales analysis.
+
+![Nigeria Retail Sales Dashboard](./Nigeria_Retail_Sales_Dashboard.png)
