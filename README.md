@@ -48,4 +48,7 @@ The analysis was completed using Excel, SQL, Python, and Power BI. Dashboard scr
 
 ---
 
-**Author:** Data Analyst Portfolio Project
+**Author:** Otso Anna Bala
+
+Dashboard Preview
+The dashboard below provides a visual overview of the Nigeria Retail Sales analysis.
